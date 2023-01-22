@@ -3,4 +3,4 @@ Using provided data on age, number of pregnancies, glucose levels, blood pressur
 
 I also took a look into the data's correlation between features and diabetic outcomes and delta between the mean of each features for diabetic and non-diabetic women, among other things. This can be found in the "Diabetes Data Visualization" file.
 
-data source: https://www.kaggle.com/datasets/whenamancodes/predict-diabities
+Data source: https://www.kaggle.com/datasets/whenamancodes/predict-diabities
